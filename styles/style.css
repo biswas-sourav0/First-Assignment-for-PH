@@ -35,7 +35,8 @@
     .logo {
       font-size: 20px;
       font-weight: 900;
-      color: #0404f3;
+      color: #4E47FF;
+      
 
     }
 
@@ -373,7 +374,7 @@
     }
 
   
-    }
+  }
 /* 6th */
 
 html, body {
@@ -392,7 +393,7 @@ html, body {
   background-color: #fff;
 }
 
-.logo {
+.logo-1 {
   font-size: 64px;
   font-weight: bold;
   color: #4c4cff;
