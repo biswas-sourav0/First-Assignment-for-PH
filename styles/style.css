@@ -298,24 +298,8 @@
     color: #9ca3af;
   }
 
-  @media (max-width: 960px) {
-    .testimonials-container {
-      justify-content: center;
-      gap: 16px;
-    }
-  }
+ 
 
-  @media (max-width: 600px) {
-    .testimonials-container {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .testimonial-card {
-      width: 100%;
-      max-width: 320px;
-    }
-  }
 
   /* 5th  */
 
