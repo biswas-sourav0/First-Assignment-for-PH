@@ -1,0 +1,79 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Inter', sans-serif;
+    }
+
+    body {
+      background: url(../Image/Hero-bg.png) no-repeat center center;
+      background-size: cover;
+      margin: 158px;
+      color: #1a1a1a;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+   .header{
+    height: 1440;
+    width: 698;
+   }
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-left: 150;
+      padding-right: 150;
+    }
+
+    .logo {
+      font-size: 20px;
+      font-weight: 900;
+      color: #0404f3;
+
+    }
+
+    .signup-btn {
+      background-color: #5b5bff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .signup-btn:hover {
+      background-color: #3f3fd1;
+    }
+
+    .hero {
+      text-align: center;
+      margin-top: 158px;
+      padding-left: 267;
+      padding-right: 267;
+    }
+
+    .hero h1 {
+      font-size: 42px;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .focus-btn {
+      margin-top: 35px;
+      background-color: #5b5bff;
+      color: #fff;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .focus-btn:hover {
+      background-color: #3f3fd1;
+    }
+    
